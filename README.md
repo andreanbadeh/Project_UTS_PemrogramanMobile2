@@ -1,1 +1,8 @@
-# Project_UTS_PemrogramanMobile2
+# Project-Aplikasi-Notes
+NAMA : ANDREAN PUTRA ARYA 
+
+NIM : 312410341
+
+KELAS : I241E
+
+UAS PEMROGRAMAN MOBILE 1
