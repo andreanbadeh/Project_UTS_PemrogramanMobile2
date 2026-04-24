@@ -13,7 +13,7 @@ UAS PEMROGRAMAN MOBILE 1
 
 # STORYBOARD
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Project_UTS_PemrogramanMobile2/blob/51c68527eacb1f57de737ad73f3eac647103909b/image/STORYBOARD.png)
 
 # MOCKUP
 
