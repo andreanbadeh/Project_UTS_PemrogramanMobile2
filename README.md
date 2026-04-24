@@ -24,7 +24,6 @@ UAS PEMROGRAMAN MOBILE 1
 (https://github.com/andreanbadeh/Project-Pemrograman-Mobile-1/blob/311352b67c1c92547161ffd0125a739c8e50ede1/UI.pdf)
 
 # UX (USER EXPERIENCE)
-Aplikasi Sudah Jadi
 
 (https://youtu.be/-4IGSxQk_aI?si=80tAxrsGLT2XBROR)
 
