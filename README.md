@@ -9,7 +9,7 @@ UAS PEMROGRAMAN MOBILE 1
 
 # Akun ClickUp
 
-(https://app.clickup.com/90181768264/v/l/s/90187396850)
+(https://app.clickup.com/90181768264/v/l/s/90187396850) (Pakai Lama Karna ClickUp Limit)
 
 # STORYBOARD
 
@@ -17,6 +17,6 @@ UAS PEMROGRAMAN MOBILE 1
 
 # MOCKUP
 
-![gambar](
+![gambar](https://github.com/andreanbadeh/Project_UTS_PemrogramanMobile2/blob/d044df43806a64443bd0beb2d9dcf829aa8feb14/image/mockup.png)
 
 # UI (USER INTERFACE)
