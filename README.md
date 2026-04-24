@@ -1,4 +1,4 @@
-# Project-Aplikasi-Notes
+# Project Aplikasi Catatan Lanjutan Pemrograman Mobile 2
 NAMA : ANDREAN PUTRA ARYA 
 
 NIM : 312410341
