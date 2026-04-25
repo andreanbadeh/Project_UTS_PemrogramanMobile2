@@ -25,7 +25,7 @@ UAS PEMROGRAMAN MOBILE 2
 
 # UX (USER EXPERIENCE)
 
-(https://youtu.be/-4IGSxQk_aI?si=80tAxrsGLT2XBROR)
+(https://youtu.be/F-ketSxz9ro?si=UjG-P2wNRyEuRsIo)
 
 # Gantt
 ![gambar](https://github.com/andreanbadeh/Project-Aplikasi-Notes/blob/440a499be80646d9bbb08e67e0f62b75b0a6f6e8/image/Screenshot%20from%202026-01-09%2018-52-37.png)
