@@ -21,7 +21,7 @@ UAS PEMROGRAMAN MOBILE 2
 
 # UI (USER INTERFACE)
 
-![gambar](https://github.com/andreanbadeh/Project_UTS_PemrogramanMobile2/blob/add7ce14cf662e325e336b1c01a40698190f254b/image/WhatsApp%20Image%202026-04-25%20at%2006.50.56.jpeg)
+
 
 # UX (USER EXPERIENCE)
 
