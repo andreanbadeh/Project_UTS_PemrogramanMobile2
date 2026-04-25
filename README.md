@@ -21,7 +21,7 @@ UAS PEMROGRAMAN MOBILE 2
 
 # UI (USER INTERFACE)
 
-
+(https://github.com/andreanbadeh/Project_UTS_PemrogramanMobile2/blob/c5a67d0eeea3baec15b78bed21ac88883f01dea8/UI%20Notes.pdf)
 
 # UX (USER EXPERIENCE)
 
