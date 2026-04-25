@@ -9,7 +9,7 @@ UAS PEMROGRAMAN MOBILE 2
 
 # Akun ClickUp
 
-(https://app.clickup.com/90181768264/v/l/s/90187396850) (Pakai Lama Karna ClickUp Limit)
+(https://sharing.clickup.com/90182651892/g/h/2kzmw3zm-458/dba6ad97b868d81)
 
 # STORYBOARD
 
